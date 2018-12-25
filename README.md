@@ -51,4 +51,4 @@ if (Boolean b)
 }
 </pre>
 ## License
-This project is licenced under the GNU License -see [LICENSE](https://github.com/ThankfulBird/oop-c99/LICENSE) for details-
+This project is licenced under the GNU License -see [LICENSE](https://github.com/ThankfulBird/oop-c99/blob/master/LICENSE) for details-
